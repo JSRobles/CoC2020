@@ -1,0 +1,13 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.openftc.easyopencv"
+4    android:versionCode="1"
+5    android:versionName="1.4.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\welse_dke4ojn\Desktop\FtcRobotController-master\easyopencv\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="23" />
+9-->C:\Users\welse_dke4ojn\Desktop\FtcRobotController-master\easyopencv\src\main\AndroidManifest.xml
+10
+11</manifest>
