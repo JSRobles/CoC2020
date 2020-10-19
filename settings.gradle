@@ -1,0 +1,4 @@
+include ':examples'
+include ':easyopencv'
+include ':FtcRobotController'
+include ':TeamCode'
